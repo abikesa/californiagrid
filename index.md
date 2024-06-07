@@ -6,6 +6,21 @@
                                            3. Technical/Skills/Abilities
 
                                            
+
+### Household
+1. Challenges
+2. Knowledge
+
+### Grid
+3. Power
+4. Routing
+
+### California
+5. Suppy & Demand
+6. Incentives
+
+#
+                                           
 California's regulations for solar power are shaped by a mix of state laws, codes, and policies designed to promote renewable energy while maintaining grid stability. Here's an overview of the laws, codes, and rationale behind the requirement for solar power to first go to the grid before being used by individual generators:
 
 ### Laws and Codes
