@@ -1,24 +1,26 @@
 
-            1. Inidivual/Passion/Challenges
+            1. Individual/Passion/Challenges
                                            \
                            2. Knowledge -> 4. Communication -> 5. Team/Network/Leadership/Decisions/Feedback/Professionalism -> 6. Accomplishments/Exceptional
                                            /
                                            3. Technical/Skills/Abilities
 
                                            
-       
-### Household                
-- Challenges      
-- Knowledge       
 
-### Grid             
-- Power      
-- Routing    
+### Receive (Households)
+- Challenges
+- Knowledge
 
-### California            
-- Suppy & Demand    
-- Incentives     
+### Express (Grid)
+- Power
+- Routing
 
+### Achieve (California)
+- Suppy & Demand
+- Incentives   
+
+# 
+# 
 # GPT-4o
                                            
 California's regulations for solar power are shaped by a mix of state laws, codes, and policies designed to promote renewable energy while maintaining grid stability. Here's an overview of the laws, codes, and rationale behind the requirement for solar power to first go to the grid before being used by individual generators:
