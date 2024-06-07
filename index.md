@@ -7,15 +7,15 @@
 
                                            
 
-### Receive (Households)
+### Receive (Households) Nodes
 - Challenges
 - Knowledge
 
-### Express (Grid)
+### Express (Grid) Edges
 - Power
 - Routing
 
-### Achieve (California)
+### Achieve (California) Vastness
 - Suppy & Demand
 - Incentives   
 
